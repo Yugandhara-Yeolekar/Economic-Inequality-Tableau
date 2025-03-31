@@ -1,4 +1,4 @@
-# Economic Inequality Dashboard
+# Economic Inequality | Tableau Dashboard
 
 This Tableau dashboard analyzes global economic inequality through metrics like wealth concentration, income distribution, and Gini coefficients. It compares disparities between the richest and poorest populations across countries and time periods.
 
